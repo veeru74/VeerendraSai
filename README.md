@@ -2,7 +2,7 @@
 <h3 align="center">Enthusiastic and detail-oriented recent graduate with a passion for data analysis.</h3>
 
 # 💫 About Me:
-🌱 I’m proficient in **Excel , Power BI , SQL , Python **<br>🌍 Based in Hyderabad, India<br>📝 I read fiction and non-fiction books<br>📫 You can reach me via LinkedIn
+🌱 I’m proficient in **Excel , Power BI , SQL , Python **<br>🌍 Based in Hyderabad, India<br>📝 I read fiction and self help books<br>📫 You can reach me via LinkedIn
 
 
 ## 🌐 Socials:
